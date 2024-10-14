@@ -32,7 +32,7 @@
     - link_finder.py
     - spider.py
     - domin.py
-    - main.py         t       
+    - main.py      
 ```
 
 ## 创建工作目录
